@@ -19,3 +19,7 @@ go install github.com/kisielk/errcheck@latest
 ## useful
 
 https://go.dev/blog/
+
+### after this book
+
+https://www.youtube.com/playlist?list=PL0xRBLFXXsP4AqkUr9XHdFJwfwN-dy9oS
