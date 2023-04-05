@@ -27,6 +27,7 @@ func (w *Wallet) Balance() Bitcoin {
 	return w.balance
 }
 
+// var makes the variable global to the package
 var ErrInsufficientFunds = errors.New("cannot withdraw, insufficient funds")
 
 func (w *Wallet) Withdraw(amount Bitcoin) error {
